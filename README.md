@@ -1,3 +1,6 @@
+# ui-testing
+Simple project to choose ui testing frameworks
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
